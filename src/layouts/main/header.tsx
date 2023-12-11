@@ -64,7 +64,7 @@ import React, { useState } from "react";
           <Button
           variant="contained"
           color="inherit"
-          href={paths.GCZap}
+          href={paths.discoverycall}
           endIcon={<Iconify icon="carbon:phone" />}
           target="_blank"
           rel="noopener"
